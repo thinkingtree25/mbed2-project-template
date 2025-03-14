@@ -16,7 +16,7 @@ GNU Arm Embedded Toolchain 6-2017-q2-update (https://developer.arm.com/downloads
 
 cd mbed2-project-template
 
-mbed config GCC_ARM_PATH "/home/{USER NAME}/{GNU Arm Embedded Directory}/bin"
+mbed config GCC_ARM_PATH "/home/{USER NAME}/{GNU Arm Embedded Toolchain Directory}/bin"
 
 pip install -r .temp/tools/requirements.txt
 
