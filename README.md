@@ -12,6 +12,8 @@ GNU Arm Embedded Toolchain 6-2017-q2-update (https://developer.arm.com/downloads
 
 Mbed 2: mbed library release version 165 (https://os.mbed.com/users/mbed_official/code/mbed/)
 
+NUCLEO-F401RE (STM32F401RE)
+
 -------------
 
 **Test Commands:**
