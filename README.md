@@ -10,6 +10,8 @@ Mbed CLI 1.10.4
 
 GNU Arm Embedded Toolchain 6-2017-q2-update (https://developer.arm.com/downloads/-/gnu-rm)
 
+Mbed 2: mbed library release version 165 (https://os.mbed.com/users/mbed_official/code/mbed/)
+
 -------------
 
 **Test Commands:**
